@@ -31,7 +31,6 @@ This project use Python to send e-mails automatic and personalized based in a CS
    
    ```
    python script.py
-
 ## CSV Structure
 The CSV file must contain the columns:
 - Nome: The receiver name.
