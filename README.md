@@ -14,20 +14,21 @@ This project use Python to send e-mails automatic and personalized based in a CS
 
 ## How to use
 1. Clone repository
+   
    ```
    git clone https://github.com/seuusuario/email-automation.git
-
-2. Install dependences
+3. Install dependences
+   
    ```
    pip install yagmail
-
-3. Create a file "destinatarios.csv" in the following format
+5. Create a file "destinatarios.csv" in the following format
+   
    ```
    Nome,Email
    João,joao@example.com
    Maria,maria@example.com
-
-4. Execute the script
+7. Execute the script
+   
    ```
    python script.py
 
